@@ -2,7 +2,7 @@
 This is the password generator for the user-defined length between 8-128 characters selected character types (uppercase, lowercase, numeric, and special). The password uses HTML to create the button to initiate password generation and prompts and confirms to select password parameters. After selection, the generated password is displayed in the browser window.
 
 # Installation
-Upload index.html, script.js, styles.css, and the license.txt to the deployed webserver. Using Github Pages to the repository by clone >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  put the link to the repository: 
+Upload index.html, script.js, styles.css, and the license.txt to the deployed webserver. Using Github Pages to the repository by clone https://git@github.com:KittiyaLooknam/Password-Generator.git put the link to the repository: 
 
 # Usage
 Link to a deployed instance of the application: 

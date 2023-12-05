@@ -7,12 +7,14 @@ Upload index.html, script.js, styles.css, and the license.txt to the deployed we
 # Usage
 Link to a deployed instance of the application: 
 
-![Alt text](image.png)
+![image](https://github.com/KittiyaLooknam/Password-Generator/assets/149645563/9d2bf01c-1812-403a-9a70-767ac911b2b2)
+
 
 click on red Generate Password will pop up the small window asking the questions for user "Choose the character password using the number between 8-128"
 
+![image](https://github.com/KittiyaLooknam/Password-Generator/assets/149645563/e61bb597-6ff8-4fbf-9625-4f7a4c77192d)
 
-![Alt text](image-1.png)
+
 
 After all the questions are asked about the characters the small window inside the bracket will show the random password.
 
